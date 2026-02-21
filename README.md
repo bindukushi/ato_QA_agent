@@ -77,10 +77,10 @@ Generate professional reports in multiple formats:
 ![Landing Page](screenshots/landing.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashbord.png)
 
 ### Test Execution Result
-![Results](screenshots/results.png)
+![Results](screenshots/result.png)
 
 ### search tab
 ![Result](screenshots/searching.png)
