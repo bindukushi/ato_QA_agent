@@ -323,9 +323,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-**Yashaswini**
+**Bindu A**
 
-- GitHub: [@bindu](https://github.com/bindukushi)
+- GitHub: [@Bindu_A](https://github.com/bindukushi)
 - Project: Auto QA agent
 
 ---
@@ -343,8 +343,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### ⭐ Star this repository if you find it helpful!
 
-**Made with ❤️ by Bindu**
-
-[⬆ Back to Top](#-Auto QA Agent)
+**Made with ❤️ by Bindu_A**
++
+[⬆ Back to Top](#Auto_QA_Agent)
 
 </div>
