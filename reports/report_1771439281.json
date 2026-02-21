@@ -1,0 +1,29 @@
+{
+  "report_id": "report_1771439281",
+  "timestamp": "2026-02-18T23:58:01.405690",
+  "test_url": "https://google.com",
+  "instruction": "Go to google.com and search for Playwright\n",
+  "statistics": {
+    "total_steps": 2,
+    "passed": 2,
+    "failed": 0,
+    "execution_time": 0
+  },
+  "steps": [
+    {
+      "action": "navigate",
+      "description": "Navigate to https://google.com",
+      "screenshot": "static\\screenshots\\step_1_20260218_235558.png",
+      "step": 1
+    },
+    {
+      "action": "search",
+      "description": "Search for: playwright",
+      "screenshot": "static\\screenshots\\step_2_20260218_235558.png",
+      "step": 2,
+      "value": "playwright"
+    }
+  ],
+  "screenshots": [],
+  "recording": null
+}
