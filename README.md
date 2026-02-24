@@ -79,11 +79,12 @@ Generate professional reports in multiple formats:
 ### Dashboard
 ![Dashboard](screenshots/dashbord.png)
 
+### search tab
+![Result](screenshots/searching.png)
+
 ### Test Execution Result
 ![Results](screenshots/result.png)
 
-### search tab
-![Result](screenshots/searching.png)
 
 ---
 
@@ -344,7 +345,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### ⭐ Star this repository if you find it helpful!
 
 **Made with ❤️ by Bindu_A**
-+
-[⬆ Back to Top](#Auto_QA_Agent)
+
 
 </div>
